@@ -60,8 +60,8 @@ I am a software developer based in **Estonia**, currently pursuing a degree in *
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=topsinoty&show_icons=true&theme=tokyonight" alt="Promise's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=topsinoty&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://readme-stats.topsinoty.com/api?username=topsinoty&show_icons=true&theme=tokyonight" alt="Promise's Stats" height="150" />
+  <img src="https://readme-stats.topsinoty.com//api/top-langs?username=topsinoty&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
 <p align="center">
