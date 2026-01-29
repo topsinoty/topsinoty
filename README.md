@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=topsinoty&show_icons=true&locale=en&layout=compact" alt="topsinoty" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=topsinoty&show_icons=true&locale=en" alt="topsinoty" /></p>
+<p>&nbsp;<img align="center" src="https://readme-stats.topsinoty.com/api?username=topsinoty&show_icons=true&locale=en" alt="topsinoty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=topsinoty&" alt="topsinoty" /></p>
 
