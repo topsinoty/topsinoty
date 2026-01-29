@@ -64,4 +64,4 @@ I am a software developer based in **Estonia**, currently pursuing a degree in *
   <img src="https://readme-stats.topsinoty.com//api/top-langs?username=topsinoty&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=topsinoty)](https://git.io/streak-stats)
+[![GitHub Streak](https://readme-streak-stats.topsinoty.com/?user=topsinoty)](https://git.io/streak-stats)
