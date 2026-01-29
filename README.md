@@ -5,7 +5,7 @@
 </p>
 
 ### 💫 About Me
-I am a software developer based in **Estonia**, currently pursuing a degree in **Systems Development** at **TalTech**. I enjoy building scalable applications and exploring new technologies.
+I am a software developer based in **Estonia**, currently pursuing a degree in **Systems Development** at **TalTech**. I like to code :)
 
 - 👨‍💻 **Portfolio:** [topsinoty.com](https://topsinoty.com)
 - 🥁 **Fun Fact:** I’m a drummer! 
